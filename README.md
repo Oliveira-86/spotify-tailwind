@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Spotify Clone
 
-## Getting Started
+## This is a [Next.js](https://nextjs.org/) project with [Tailwind css](https://tailwindcss.com/).
 
-First, run the development server:
+### Recently, the Reactjs team recommended that projects be built using a framework like Nextjs, and by default, Next13 recommends using Tailwind css to style the app. With that in mind, I decided to study Tailwind. I made this project to improve my skills in this technology. This is Spotify clone.
+
+### APP
+
+<div> 
+  <img width="100%" height="550" src="public/spotify.gif">
+ </div>
+
+### Run project
 
 ```bash
 npm run dev
